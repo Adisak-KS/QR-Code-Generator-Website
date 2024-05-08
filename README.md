@@ -1,4 +1,4 @@
-# 📖 QR Code Generator Website (เว็บไซต์สร้าง QR Code จากข้อความ)
+## 📖 QR Code Generator Website (เว็บไซต์สร้าง QR Code จากข้อความ)
 
 ###### ✍️แก้ไขเมื่อ : 07/05/2567
 ###### 👨‍💻ผู้จัดทำ : Adisak
